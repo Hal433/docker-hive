@@ -1,6 +1,6 @@
 # Dockerfile for Apache Hive.
 
-FROM bwv988/hadoop-base
+FROM hal433/hadoop-base
 
 ENV HIVE_VERSION 1.2.1
 
